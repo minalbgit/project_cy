@@ -1,0 +1,51 @@
+.link {
+color:#f00;
+}
+
+#row1 {
+background-color: #b0000b;
+height:30px;
+margin: -8px;
+padding: 10px;
+}
+
+#mail_icon{
+    width: 15px;
+    height: 19px;
+    background-color: #fff;
+    padding: 4px;
+    margin-left: 20px;
+
+}
+#mail_id {
+    width: 15%;
+    margin-left: 12px;
+    background-color: #fff;
+    height: 27px;
+    padding-top: 0px;
+}
+.in_row{
+display:inline-block;
+}
+#middle{
+width: 60%;
+height: 27px;
+}
+
+#phone_icon{
+    width: 15px;
+    height: 19px;
+    background-color: #fff;
+    padding: 4px;
+    margin-left: 20px;
+}
+
+#phone_number{   
+    width: 15%;
+    margin-left: 12px;
+    background-color: #fff;
+    height: 27px;
+    padding-top: 0px;
+}
+
+
